@@ -32,10 +32,10 @@ Name | Repository | License
 
 Name | Repository | License
 ---- | ---------- | ------
+[event_bus](https://pub.dartlang.org/packages/event_bus) | https://github.com/marcojakob/dart-event-bus | [MIT](https://github.com/marcojakob/dart-event-bus/blob/master/LICENSE)
 [pool](https://pub.dartlang.org/packages/pool) | https://github.com/dart-lang/pool | [BSD](https://github.com/dart-lang/pool/blob/master/LICENSE)
 [rxdart](https://pub.dartlang.org/packages/rxdart) | https://github.com/frankpepermans/rxdart | [Apache](https://github.com/frankpepermans/rxdart/blob/master/LICENSE)
 [stream_channel](https://pub.dartlang.org/packages/stream_channel) | https://github.com/dart-lang/stream_channel | [BSD](https://github.com/dart-lang/stream_channel/blob/master/LICENSE)
-[event_bus](https://pub.dartlang.org/packages/event_bus) | https://github.com/marcojakob/dart-event-bus | [MIT](https://github.com/marcojakob/dart-event-bus/blob/master/LICENSE)
 
 ## Code Generation
 
@@ -97,8 +97,8 @@ Name | Repository | License
 
 Name | Repository | License
 ---- | ---------- | ------
-[quiver](https://pub.dartlang.org/packages/quiver) | https://github.com/google/quiver-dart | [Apache](https://github.com/google/quiver-dart/blob/master/LICENSE)
 [fnx_config](https://pub.dartlang.org/packages/fnx_config) | https://github.com/fnx-io/fnx_config | [BSD](https://github.com/fnx-io/fnx_config/blob/master/LICENSE)
+[quiver](https://pub.dartlang.org/packages/quiver) | https://github.com/google/quiver-dart | [Apache](https://github.com/google/quiver-dart/blob/master/LICENSE)
 
 ## Web
 
